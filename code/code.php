@@ -2,4 +2,6 @@
 
 	phpinfo() ;
 
+	print "UPDATES BABY!" ;
+
 ?>
